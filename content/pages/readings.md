@@ -150,7 +150,7 @@ Developing policy to improve food supply
 {{< tdopen >}}
 
 
-Aragrande, Maurizio, and Olivio Argenti. "Studying Food and Distribution Systems to Cities in Developing Countries and Countries in Transition: Methodological and Operational Guide." _Food into Cities Collection_. Rome: Food and Agriculture Organization of the United Nations, 2001. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.8MB](ftp://ftp.fao.org/docrep/fao/003/x6996e/x6996e00.pdf))
+Aragrande, Maurizio, and Olivio Argenti. "Studying Food and Distribution Systems to Cities in Developing Countries and Countries in Transition: Methodological and Operational Guide." _Food into Cities Collection_. Rome: Food and Agriculture Organization of the United Nations, 2001. ([PDF - 1.8MB](ftp://ftp.fao.org/docrep/fao/003/x6996e/x6996e00.pdf))
 
 UESP. "[Documento Técnico de Soporte, Plan Maestro de Abastecimiento y Seguridad Alimentaria de Bogotá. Bogotá](http://www.alcaldiabogota.gov.co/sisjur/normas/Norma1.jsp?i=18559)." Unidad Ejecutiva de Servicios Públicos, Alcaldía Mayor de Bogotá, 2005.
 
@@ -202,7 +202,7 @@ Led by Martha Isabel Bonilla, MIT Global Program Coordinator for the Green Hub I
 {{< tdopen >}}
 
 
-Gakenheimer, Ralph, and C. Zegras. "Personal Mobility in the Urbanized Developing World." Chapter 4 in _Mobility 2001: World Mobility at the End of the Twentieth Century and Its Sustainability_. World Business Council for Sustainable Development, Geneva, 2001, pp. 4-1-4-30. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 2.0MB](http://web.mit.edu/aeroastro/sites/waitz/publications/WBCSD.report.pdf))
+Gakenheimer, Ralph, and C. Zegras. "Personal Mobility in the Urbanized Developing World." Chapter 4 in _Mobility 2001: World Mobility at the End of the Twentieth Century and Its Sustainability_. World Business Council for Sustainable Development, Geneva, 2001, pp. 4-1-4-30. ([PDF - 2.0MB](http://web.mit.edu/aeroastro/sites/waitz/publications/WBCSD.report.pdf))
 
 Vasconcellos, Eduardo A. "The Political Issue: Agents In Urban Transport Policy" Chapter 7 and "The Institutional Issue" Chapter 8. In _Urban Transport, Environment and Equity: The Case for Developing Countries_. London: Earthscan, 2001, pp. 75-83 and 84-95. ISBN: 9781853837272.
 
